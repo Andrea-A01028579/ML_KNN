@@ -8,4 +8,4 @@ The Assesment2_clean notebook contains all implementation code (class definition
 
 The Assesment2_clean_data contains the code for using the created KNN model in a non toy dataset. The non toy dataset is taken from Kaggle, and can be accessed through the following link: https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention. 
 
-The file AndreaBravo contains the documentation of the class, and is the report of the implementation.
+The file AndreaBravo_24855773_A2_ML.pdf contains the documentation of the class, and is the report of the implementation.

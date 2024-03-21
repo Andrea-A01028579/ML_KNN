@@ -1,5 +1,5 @@
 # ML_KNN
-Implementation of a K Nearest Network algorithm using python.
+Implementation of a K Nearest Neighbors algorithm using python.
 
 
 This repository contains two ipynb files, with the implementation code and a pdf document with the complete documentation of the code.
